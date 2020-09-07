@@ -1169,3 +1169,7 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.download {
+  text-decoration-style: double;
+}
